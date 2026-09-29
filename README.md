@@ -1,6 +1,6 @@
 # App Anime — Projeto React Native (1º Bimestre)
 
-**Dupla / Aluno(a):** CAROLINA CARNEIRO SILVA
+**Aluna:** CAROLINA CARNEIRO SILVA
 
 App mobile em React Native (Expo SDK 54) que consome a **API do AniList** (GraphQL, gratuita e sem chave: `https://graphql.anilist.co`).
 Documentação: https://anilist.gitbook.io/anilist-apiv2-docs
